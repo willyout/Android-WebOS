@@ -1,0 +1,10 @@
+module window {
+    interface [OmitConstructor] HelloObject { 
+        readonly attribute DOMString sayHello; 
+        readonly attribute DOMString getOneMess;
+        DOMString getOneMess2();
+        void addOneMess(in DOMString m);
+        long vibrate(in long timeout_ms);
+        long sleep(in long times);
+    };
+}
