@@ -1,4 +1,6 @@
-WebOS@Android: A rudiment of WebOS based on Android with WebKit, and current we can 
+Android-WebOS 
+==============
+A rudiment of WebOS based on Android with WebKit, and current we can 
 make android device vibrate with JavaScript, and further we will develop a stronger 
 WebOS, that you can do everything in Browser or with HTML/JavaScript.
 
